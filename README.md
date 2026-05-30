@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahamed--mansoor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamed-mansoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahamed--mansoor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ahamed-mansoor](https://www.linkedin.com/in/ahamed-mansoor-m-38510326a/))
 [![GitHub](https://img.shields.io/badge/GitHub-ahamedmansoor01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahamedmansoor01)
 [![Gmail](https://img.shields.io/badge/Gmail-ahamedmansoor169@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahamedmansoor169@gmail.com)
 [![Location](https://img.shields.io/badge/Chennai-Tamil%20Nadu-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
